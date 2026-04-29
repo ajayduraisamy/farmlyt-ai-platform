@@ -1,0 +1,11 @@
+flask
+flask-cors
+mysql-connector-python
+requests
+werkzeug
+ultralytics
+opencv-python-headless
+pillow
+numpy==1.25.0
+razorpay
+python-dotenv
