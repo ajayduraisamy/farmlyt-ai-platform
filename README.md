@@ -330,3 +330,4 @@ For project collaboration, deployment, or development support.
 ## 🌱 Farmlyt AI Platform
 
 ### Detect. Diagnose. Protect Agriculture.
+"# Farmlyt-AI-Platform" 
