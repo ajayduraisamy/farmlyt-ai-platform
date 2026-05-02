@@ -23,6 +23,7 @@ Farmlyt AI Platform consists of multiple AI modules trained for different agricu
 
 # 🌿 Main Modules
 
+
 ## 1️⃣ Agriculture Plant Disease Scan
 
 Advanced crop disease analysis for multiple agricultural segments:
